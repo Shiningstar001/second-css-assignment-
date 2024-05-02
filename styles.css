@@ -1,0 +1,91 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: darkred;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+}
+
+#opacity {
+    color: rgb(221, 218, 206);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    opacity: .7;
+}
+
+.first {
+    background-image:url(./bg.jpg);
+    background-blend-mode: overlay; 
+    width: 1700px;
+    background-color: rgb(117, 15, 15);
+    padding: 5px;
+    margin: 5px;
+    height: 800px;
+    position: relative;
+    text-align: center;
+
+
+
+}
+.first .image{
+    margin: 150px;
+    margin-top: 40px;
+    width: 75em;
+    height: 45rem;
+
+
+}
+
+.first p{
+            position: absolute;
+            bottom: 1px;
+            color: #ffffff;
+            text-align: center;
+          
+
+
+}
+#searching {
+    text-align: center;
+    color: #fff;
+}
+
+.container {
+    color: #fff;
+    font: 1em sans-serif;
+    text-align: center;
+   
+
+}
+
+li {
+    margin: 16px 0px;
+    text-align:justify
+    
+}
+
+.end_path{
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 22px;
+}
+h4{
+    color: #fff;
+    font: 1em sans-serif;
+    text-align: center;
+}
+p{
+    color: #fff;
+    font: 1em sans-serif;
+    text-align: center;
+}
